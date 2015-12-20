@@ -1413,12 +1413,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/stefanius/web-checker.git",
-                "reference": "1133e96f7cc75ce9419aa804f257b98485d67f60"
+                "reference": "62c2284bf42a004c54e05b0bc19d8d73b0919950"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stefanius/web-checker/zipball/1133e96f7cc75ce9419aa804f257b98485d67f60",
-                "reference": "1133e96f7cc75ce9419aa804f257b98485d67f60",
+                "url": "https://api.github.com/repos/stefanius/web-checker/zipball/62c2284bf42a004c54e05b0bc19d8d73b0919950",
+                "reference": "62c2284bf42a004c54e05b0bc19d8d73b0919950",
                 "shasum": ""
             },
             "require": {
@@ -1443,7 +1443,7 @@
                 "unknown"
             ],
             "description": "This is just a prototype. This will be filled in later.",
-            "time": "2015-12-20 21:02:30"
+            "time": "2015-12-20 21:32:30"
         },
         {
             "name": "symfony/asset",
